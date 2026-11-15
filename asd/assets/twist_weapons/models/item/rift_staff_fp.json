@@ -1,0 +1,18 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "twist_weapons:item/rift_staff"
+  },
+  "display": {
+    "firstperson_righthand": {
+      "rotation": [-10, -90, 25],
+      "translation": [2.0, 3.2, -2.5],
+      "scale": [1.2, 1.2, 1.2]
+    },
+    "firstperson_lefthand": {
+      "rotation": [-10, 90, -25],
+      "translation": [2.0, 3.2, -2.5],
+      "scale": [1.2, 1.2, 1.2]
+    }
+  }
+}

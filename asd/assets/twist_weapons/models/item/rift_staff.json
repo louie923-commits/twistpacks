@@ -1,0 +1,1 @@
+{ "parent": "minecraft:item/generated", "textures": { "layer0": "twist_weapons:item/rift_staff" } }
